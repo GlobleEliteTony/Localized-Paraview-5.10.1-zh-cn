@@ -1,0 +1,16 @@
+{
+  "representation_selected": "'Surface With Edges'",
+  "representation_model_unchanged": true,
+  "material_selected": "'Metal_Gold_brushed'",
+  "materials_model_unchanged": true,
+  "materials_all_bilingual": true,
+  "ray_tracing": 1,
+  "backend": "'OSPRay pathtracer'",
+  "material_presets": 102,
+  "overlay_test": {
+    "StockExeBeforeOverlay": "FD4ED46AF3089DAFE178FAE33843A758EED07E274863B15834AB4D0E6C4643D1",
+    "OverlayExeAfter": "96B89C61D7C8AFE384DDEA6471DF5476519B08A4A24E413E56AF567C85FF1015",
+    "OriginalCoreAfter": "FD4ED46AF3089DAFE178FAE33843A758EED07E274863B15834AB4D0E6C4643D1",
+    "Destination": "D:\\CodexWorkspaces\\汉化游戏补丁\\ParaView-5.10.1-双语\\ParaView 5.10.1"
+  }
+}

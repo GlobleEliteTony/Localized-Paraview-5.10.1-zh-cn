@@ -1,0 +1,1182 @@
+File|文件
+Edit|编辑
+View|视图
+Sources|数据源
+Filters|过滤器
+Extractors|提取器
+Tools|工具
+Macros|宏
+Help|帮助
+Favorites|收藏
+Alphabetical|按字母排序
+Common|常用
+Recent|最近使用
+Recent Files|最近打开的文件
+Open|打开
+Connect|连接
+Disconnect|断开连接
+Load State|加载状态
+Save State|保存状态
+Save Data|保存数据
+Save Extracts|保存提取结果
+Save Screenshot|保存截图
+Copy Screenshot to Clipboard|复制截图到剪贴板
+Save Animation|保存动画
+Save Geometry|保存几何
+Export Scene|导出场景
+Export Animated Scene|导出动画场景
+Import Scene|导入场景
+Exit|退出
+Undo|撤销
+Redo|重做
+Can't Undo|无法撤销
+Can't Redo|无法重做
+Copy|复制
+Paste|粘贴
+Delete|删除
+Delete All|全部删除
+Find Data|查找数据
+Settings|设置
+Reset Session|重置会话
+Reset to Default Settings|重置为默认设置
+Full Screen|全屏
+Toolbars|工具栏
+Toggle Lock Panels|切换面板锁定
+Properties|属性
+Properties Panel|属性面板
+Information|信息
+Pipeline Browser|管线浏览器
+Animation View|动画视图
+Color Map Editor|颜色映射编辑器
+Comparative View Inspector|比较视图检查器
+Light Inspector|灯光检查器
+Memory Inspector|内存检查器
+Multi-block Inspector|多块数据检查器
+Output Messages|输出消息
+Selection Display|选择显示
+Statistics Inspector|统计检查器
+Time Inspector|时间检查器
+Python Shell|Python 控制台
+Python Script Editor|Python 脚本编辑器
+Create Custom Filter|创建自定义过滤器
+Manage Custom Filters|管理自定义过滤器
+Add Camera Link|添加相机链接
+Link with selection|与选择建立链接
+Manage Links|管理链接
+Manage Plugins|管理插件
+Manage Favorites|管理收藏
+Customize Shortcuts|自定义快捷键
+Record Test|录制测试
+Play Test|回放测试
+Lock View Size|锁定视图大小
+Lock View Size Custom|自定义锁定视图大小
+Timer Log|计时日志
+Log Viewer|日志查看器
+Start Trace|开始跟踪
+Stop Trace|停止跟踪
+Import new macro|导入新宏
+Add new macro|添加新宏
+Save Catalyst State|保存 Catalyst 状态
+Pause Simulation|暂停仿真
+Continue|继续
+About|关于
+Getting Started with ParaView|ParaView 入门
+Example Visualizations|可视化示例
+ParaView Guide|ParaView 使用指南
+ParaView Web Site|ParaView 网站
+ParaView Wiki|ParaView 维基
+ParaView Community Support|ParaView 社区支持
+ParaView Classroom Tutorials|ParaView 课堂教程
+ParaView Self-directed Tutorial|ParaView 自学教程
+Reader, Filter, and Writer Reference|读取器、过滤器和写入器参考
+Professional Support|专业支持
+Professional Training|专业培训
+Online Tutorials|在线教程
+Online Blogs|在线博客
+Bug Report|报告问题
+Release Notes|发行说明
+Apply|应用
+Auto Apply|自动应用
+Reset|重置
+Cancel|取消
+OK|确定
+Close|关闭
+Yes|是
+No|否
+Save|保存
+Load|加载
+Add|添加
+Remove|移除
+Clear|清除
+Search|搜索
+Search in item list|在条目列表中搜索
+Search Properties|搜索属性
+Advanced|高级
+General|常规
+Render View|渲染视图
+Render Views|渲染视图
+Render View Settings|渲染视图设置
+Render View Interaction|渲染视图交互
+Chart View|图表视图
+Color Palette|调色板
+Load Palette|加载调色板
+Background|背景
+Background 2|背景 2
+Background Color Mode|背景颜色模式
+Background mode|背景模式
+Background Texture|背景纹理
+Use Color Palette For Background|使用调色板设置背景
+Single color|单一颜色
+Gradient|梯度
+Texture|纹理
+Skybox|天空盒
+Stereo Skybox|立体天空盒
+Orientation Axes|方向坐标轴
+Axes Grid|坐标轴网格
+Camera|相机
+Camera Controls|相机控制
+Camera Parallel Projection|相机平行投影
+Camera Undo|撤销相机操作
+Camera Redo|重做相机操作
+Adjust Camera|调整相机
+Reset Camera|重置相机
+Reset Center|重置中心
+Show Center|显示中心
+Pick Center|拾取中心
+Center Axes Controls|中心坐标轴控制
+Center Axes Visibility|中心坐标轴可见性
+Show Orientation Axes|显示方向坐标轴
+Orientation Axes Visibility|方向坐标轴可见性
+Orientation Axes Interactivity|方向坐标轴交互
+Orientation Axes Label Color|方向坐标轴标签颜色
+Orientation Axes Outline Color|方向坐标轴轮廓颜色
+Change Interaction Mode|切换交互模式
+Configure custom viewpoints|配置自定义视角
+Add current viewpoint as custom viewpoint|将当前视角添加为自定义视角
+Custom Viewpoints Toolbar|自定义视角工具栏
+Display|显示
+Representation|表示方式
+Representation Toolbar|表示方式工具栏
+Surface|表面
+Surface With Edges|表面及边线
+Wireframe|线框
+Points|点
+Point Gaussian|高斯点
+Volume|体渲染
+Outline|外轮廓
+Outline Corners|外轮廓角点
+Outline Source|轮廓数据源
+Color|颜色
+Color 2|颜色 2
+Coloring|着色
+Opacity|不透明度
+Point Size|点大小
+Line Width|线宽
+Lighting|光照
+Ambient|环境光
+Diffuse|漫反射
+Specular|镜面反射
+Specular Power|镜面反射指数
+Interpolation|插值
+Flat|平面
+Gouraud|高洛德着色
+Phong|冯氏着色
+Show Color Legend|显示颜色图例
+Edit Color Map|编辑颜色映射
+Rescale Custom Range|重新缩放到自定义范围
+Rescale Temporal Range|重新缩放到时间范围
+Rescale Visible Range|重新缩放到可见范围
+Reset Range|重置范围
+Use Separate Color Map|使用独立颜色映射
+Show All|全部显示
+Hide All|全部隐藏
+Selection|选择
+Selection Color|选择颜色
+Interactive Selection|交互式选择
+Interactive Widget|交互式控件
+Interactive Selection Color|交互式选择颜色
+Selection Appearance|选择外观
+Selection Labels|选择标签
+Selection Criteria|选择条件
+Selection Qualifiers|选择限定条件
+Select Cells On (s)|选择可见单元
+Select Cells Through (f)|穿透选择单元
+Select Cells With Polygon|用多边形选择单元
+Select Points On (d)|选择可见点
+Select Points Through (g)|穿透选择点
+Select Points With Polygon|用多边形选择点
+Select Block (b)|选择数据块
+Clear selection|清除选择
+Grow selection|扩展选择
+Shrink selection|收缩选择
+Invert selection|反转选择
+Add selection (Ctrl)|添加选择
+Subtract selection (Shift)|减去选择
+Toggle selection (Ctrl+Shift)|切换选择
+Interactive Select Cell Data On|交互选择可见单元数据
+Interactive Select Cells On|交互选择可见单元
+Interactive Select Point Data On|交互选择可见点数据
+Interactive Select Points On|交互选择可见点
+Hover Cells On|悬停选择可见单元
+Hover Points On|悬停选择可见点
+Point Labels|点标签
+Cell Labels|单元标签
+Point|点
+Cell|单元
+Edge|边
+Edges|边
+Vertex|顶点
+Row|行
+Data|数据
+Data Arrays|数据数组
+Data Grouping|数据分组
+Data Statistics|数据统计
+Data Analysis|数据分析
+Data Objects|数据对象
+Data Producer|数据生成器
+Element Type|元素类型
+Attribute|属性
+Name|名称
+Type|类型
+Path|路径
+Input|输入
+Output|输出
+Bounds|边界范围
+Extents|索引范围
+Memory|内存
+Time|时间
+Time Step|时间步
+Time Source|时间数据源
+Time Step Progress Bar|时间步进度条
+Start Time|开始时间
+End Time|结束时间
+No. Frames|帧数
+First Frame|第一帧
+Previous Frame|上一帧
+Next Frame|下一帧
+Last Frame|最后一帧
+Play|播放
+Pause|暂停
+Loop|循环
+Mode|模式
+Sequence|序列
+Real Time|实时
+Snap To TimeSteps|对齐时间步
+Synchronize Time|同步时间
+Current Time Controls|当前时间控制
+VCR Controls|动画播放控制
+Animation|动画
+Animation Settings|动画设置
+Main Controls|主控制栏
+Active Variable Controls|当前变量控制
+Macros Toolbars|宏工具栏
+Restore|还原
+Restore Default|恢复默认
+Maximize|最大化
+Preview|预览
+Back|返回
+Next|下一步
+Finish|完成
+Restore Default Settings|恢复默认设置
+Load Window Arrangement|加载窗口布局
+Save Window Arrangement|保存窗口布局
+Layout|布局
+Layout shown in separate window|在独立窗口中显示布局
+Rename Window|重命名窗口
+Rename|重命名
+Split Horizontal Axis|水平分割坐标轴
+Split Vertical Axis|垂直分割坐标轴
+SplitViewportHorizontal|水平分割视口
+Show Frame Decorations|显示视框装饰
+Change Input|更改输入
+File Properties|文件属性
+Reload Files|重新加载文件
+Copy to Clipboard|复制到剪贴板
+Save to File|保存到文件
+Capture to Clipboard or File|捕获到剪贴板或文件
+Run Script|运行脚本
+Breakpoint|断点
+Set Breakpoint|设置断点
+Remove Breakpoint|移除断点
+Load Path Tracer Materials|加载路径追踪材质
+Material Editor|材质编辑器
+Lights Editor|灯光编辑器
+Light Kit|灯光组
+Add Light|添加灯光
+Enable Ray Tracing|启用光线追踪
+Ray Traced Rendering|光线追踪渲染
+Path Traced Environment|路径追踪环境
+Render Passes|渲染通道
+Use Ambient Occlusion|使用环境光遮蔽
+Use Tone Mapping|使用色调映射
+Use Environment Lighting|使用环境光照
+Use As Environment Lighting|用作环境光照
+Shadows|阴影
+Denoise|降噪
+Exposure|曝光
+Light Scale|光照强度缩放
+Samples Per Pixel|每像素采样数
+Ambient Samples|环境采样数
+Back End|后端
+Progressive Passes|渐进通道数
+Roulette Depth|轮盘赌深度
+Volume Anisotropy|体散射各向异性
+Temporal Cache Size|时间缓存大小
+Environment|环境
+Environment North|环境北向
+Environment East|环境东向
+Stereo|立体显示
+Stereo Type|立体显示类型
+Server Stereo Type|服务器立体显示类型
+Anaglyph|互补色立体
+Interlaced|交错立体
+Red-Blue|红蓝立体
+Left|左
+Right|右
+Both|两者
+None|无
+(none)|（无）
+(n/a)|（不适用）
+System Total|系统总量
+Process ID|进程 ID
+client|客户端
+Server Connect ID|服务器连接 ID
+Same As Client|与客户端相同
+Disable further connections|禁止后续连接
+Collaboration Panel|协作面板
+Share mouse pointer|共享鼠标指针
+Chat room|聊天室
+Attach|附加
+Geometric Shapes|几何形状
+Annotation|标注
+Measurement Tools|测量工具
+Temporal|时间相关
+Statistics|统计
+Material Analysis|材料分析
+Chemistry|化学
+Quadrature Points|积分点
+Hyper Tree Grid|超树网格
+Experimental|实验性
+Sphere|球体
+Cone|圆锥
+Cylinder|圆柱
+Box|长方体
+Plane|平面
+Line|直线
+Disk|圆盘
+Arrow|箭头
+Text|文本
+3D Text|三维文本
+Ruler|标尺
+Bounding Ruler|边界标尺
+Point Source|点数据源
+Poly Line Source|折线数据源
+Poly Point Source|多点数据源
+Wavelet|小波数据源
+Mandelbrot|曼德勃罗集
+Perlin Noise|柏林噪声
+Superquadric|超二次曲面
+SplineSource|样条数据源
+Hierarchical Fractal|层次分形
+Data Object Generator|数据对象生成器
+Programmable Source|可编程数据源
+Live Programmable Source|实时可编程数据源
+Time Source|时间数据源
+Logo|标志
+Outline Curvilinear DataSet|曲线网格外轮廓
+Calculator|计算器
+Python Calculator|Python 计算器
+Python Annotation|Python 标注
+Programmable Annotation|可编程标注
+Programmable Filter|可编程过滤器
+Contour|等值面
+Contour Generic Dataset|通用数据集等值面
+Clip|裁剪
+Clip Closed Surface|裁剪封闭表面
+Clip Generic Dataset|裁剪通用数据集
+Slice|切片
+Slice With Plane|平面切片
+Slice Generic Dataset|通用数据集切片
+Slice Along PolyLine|沿折线切片
+Slice AMR data|AMR 数据切片
+Slice (demand-driven-composite)|切片（按需复合）
+Threshold|阈值筛选
+Iso Volume|等值体
+Glyph|矢量符号
+2D Glyph|二维矢量符号
+Glyph With Custom Source|自定义数据源矢量符号
+Normal Glyphs|法向符号
+Tensor Glyph|张量符号
+Stream Tracer|流线追踪
+Stream Tracer With Custom Source|自定义数据源流线追踪
+Stream Tracer For Generic Datasets|通用数据集流线追踪
+Evenly Spaced Streamlines 2D|二维等间距流线
+ParticlePath|粒子路径
+ParticleTracer|粒子追踪
+StreakLine|脉线
+Warp By Scalar|按标量变形
+Warp By Vector|按矢量变形
+Transform|变换
+Reflect|镜像反射
+Rotate|旋转
+Translate|平移
+Scale|缩放
+Position|位置
+Orientation|方向
+Origin|原点
+Normal|法向
+Resolution|分辨率
+Radius|半径
+Height|高度
+Center|中心
+Length|长度
+X Length|X 方向长度
+Y Length|Y 方向长度
+Z Length|Z 方向长度
+Theta Resolution|周向分辨率
+Phi Resolution|纬向分辨率
+Start Theta|起始周向角
+End Theta|结束周向角
+Start Phi|起始纬向角
+End Phi|结束纬向角
+Capping|封口
+Show Plane|显示平面
+Show Box|显示包围盒
+Show Sphere|显示球体
+Invert|反转
+Offset|偏移
+Value|数值
+Values|数值
+Contour By|等值面变量
+Isosurfaces|等值面值
+Compute Normals|计算法向
+Compute Gradients|计算梯度
+Compute Scalars|计算标量
+Generate Triangles|生成三角形
+Clip Type|裁剪类型
+Slice Type|切片类型
+Crinkle clip|皱褶裁剪
+Crinkle slice|皱褶切片
+Scalars|标量
+Vectors|矢量
+Normals|法向
+Input Scalars|输入标量
+Input Vectors|输入矢量
+Select Input Scalars|选择输入标量
+Select Input Vectors|选择输入矢量
+Scale Factor|缩放系数
+Scale Array|缩放数组
+Orientation Array|方向数组
+Glyph Type|符号类型
+Glyph Mode|符号布置方式
+Maximum Number Of Sample Points|最大采样点数
+Seed|随机种子
+Seed Type|种子类型
+Integration Direction|积分方向
+Integration Step Unit|积分步长单位
+Initial Step Length|初始步长
+Minimum Step Length|最小步长
+Maximum Step Length|最大步长
+Maximum Steps|最大步数
+Maximum Streamline Length|最大流线长度
+Terminal Speed|终止速度
+Integrator Type|积分器类型
+Compute Vorticity|计算涡量
+Forward|正向
+Backward|反向
+Both|双向
+Point Data to Cell Data|点数据转换为单元数据
+Cell Data to Point Data|单元数据转换为点数据
+Cell Centers|单元中心
+Cell Size|单元尺寸
+Clean|清理
+Clean to Grid|清理并转换为网格
+Clean Cells to Grid|清理单元并转换为网格
+Extract|提取
+Extract Surface|提取表面
+Extract Edges|提取边线
+Extract Block|提取数据块
+Extract Selection|提取选择
+Extract Subset|提取子集
+Extract Subset With Seed|按种子提取子集
+Extract Component|提取分量
+Extract Location|提取位置
+Extract Time Steps|提取时间步
+Extract Ghost Cells|提取幽灵单元
+Extract Enclosed Points|提取封闭区域内的点
+Extract Cells By Region|按区域提取单元
+Extract Region Surface|提取区域表面
+Extract Generic Dataset Surface|提取通用数据集表面
+Feature Edges|特征边
+Generate Surface Normals|生成表面法向
+Generate Surface Tangents|生成表面切向
+Surface Vectors|表面矢量
+Surface Flow|表面流动
+Smooth|平滑
+Subdivide|细分
+Tessellate|镶嵌细分
+Tetrahedralize|四面体化
+Triangulate|三角化
+Triangle Strips|三角形条带
+Decimate|网格减面
+Decimate Polyline|折线简化
+Quadric Clustering|二次误差聚类
+Shrink|收缩
+Ribbon|带状面
+Tube|管状面
+Linear Extrusion|线性拉伸
+Linear Cell Extrusion|单元线性拉伸
+Rotational Extrusion|旋转拉伸
+Loop Subdivision|Loop 细分
+Reverse Sense|反转方向
+Deflect Normals|偏转法向
+Curvature|曲率
+Elevation|高程
+Connectivity|连通性
+Delaunay 2D|二维德洛内三角剖分
+Delaunay 3D|三维德洛内四面体剖分
+Mesh Quality|网格质量
+Validate Cells|验证单元
+Unstructured Cell Types|非结构化单元类型
+Count Cell Faces|统计单元面数
+Count Cell Vertices|统计单元顶点数
+Overlapping Cells Detector|重叠单元检测
+Generate Ids|生成编号
+Generate Global Ids|生成全局编号
+Process Id Scalars|进程编号标量
+Block Scalars|数据块标量
+Random Attributes|随机属性
+Random Vectors|随机矢量
+Mask Points|点抽样
+Append Datasets|合并数据集
+Append Geometry|合并几何
+Append Attributes|合并属性
+Append Location Attributes|附加位置属性
+Append Arc-Length|附加弧长
+Append Reduce|合并归约
+Append Molecule|合并分子
+Group Datasets|分组数据集
+Merge Blocks|合并数据块
+Merge Vector Components|合并矢量分量
+Merge Time|合并时间
+Group Time Steps|分组时间步
+Redistribute DataSet|重新分配数据集
+PartitionBalancer|分区负载均衡
+Aggregate Dataset|聚合数据集
+PassArrays|传递数组
+Resample With Dataset|按数据集重采样
+Resample To Image|重采样为图像
+Resample AMR|AMR 重采样
+Gaussian Resampling|高斯重采样
+Adaptive Resample To Image|自适应重采样为图像
+Probe Location|探测指定位置
+Integrate Variables|变量积分
+Compute Derivatives|计算导数
+Plot Over Line|沿线绘图
+Plot Data|数据绘图
+Plot Over Time|随时间绘图
+Plot Data Over Time|数据随时间绘图
+Plot Global Variables Over Time|全局变量随时间绘图
+Plot Selection Over Time|选择数据随时间绘图
+Plot On Intersection Curves|沿相交曲线绘图
+Plot On Sorted Lines|沿排序直线绘图
+Histogram|直方图
+Temporal Statistics|时间统计
+Temporal Interpolator|时间插值
+Temporal Cache|时间缓存
+Temporal Shift Scale|时间平移与缩放
+Temporal Snap-to-Time-Step|时间对齐到时间步
+Temporal Array Operator|时间数组运算
+Temporal Particles To Pathlines|时间粒子转换为路径线
+Force Time|强制时间
+Ignore Time|忽略时间
+Descriptive Statistics|描述性统计
+Contingency Statistics|列联统计
+Multicorrelative Statistics|多重相关统计
+Principal Component Analysis|主成分分析
+K Means|K 均值聚类
+Median|中位数
+Compute Quartiles|计算四分位数
+Table FFT|表格快速傅里叶变换
+FFT Of Selection Over Time|选择数据的时间快速傅里叶变换
+Table To Points|表格转换为点
+Table To Structured Grid|表格转换为结构化网格
+Transpose Table|转置表格
+Convert To MultiBlock|转换为多块数据
+Convert To PartitionedDataSetCollection|转换为分区数据集集合
+Convert To Point Cloud|转换为点云
+Convert Polyhedral Cells|转换多面体单元
+Convert Into Molecule|转换为分子
+Molecule To Lines|分子转换为线
+Compute Molecule Bonds|计算分子键
+Texture Map to Cylinder|圆柱纹理映射
+Texture Map to Plane|平面纹理映射
+Texture Map to Sphere|球面纹理映射
+Point Interpolation|点插值
+Point Dataset Interpolator|点数据集插值器
+Point Line Interpolator|点直线插值器
+Point Plane Interpolator|点平面插值器
+Point Volume Interpolator|点体插值器
+SPH Dataset Interpolator|SPH 数据集插值器
+SPH Line Interpolator|SPH 直线插值器
+SPH Plane Interpolator|SPH 平面插值器
+SPH Volume Interpolator|SPH 体插值器
+Annotate Attribute Data|标注属性数据
+Annotate Global Data|标注全局数据
+Annotate Time|标注时间
+Annotate Time Filter|时间标注过滤器
+Environment Annotation|环境标注
+Data Statistics|数据统计
+Image Data To AMR|图像数据转换为 AMR
+Image Data To Uniform Grid|图像数据转换为均匀网格
+Image Data to Point Set|图像数据转换为点集
+Rectilinear Data to Point Set|直角网格数据转换为点集
+Rectilinear Grid Connectivity|直角网格连通性
+Ghost Cells Generator|幽灵单元生成器
+Legacy Ghost Cells Generator|旧式幽灵单元生成器
+Remove Ghost Information|移除幽灵单元信息
+Fast Uniform Grid|快速均匀网格
+HyperTreeGrid To Dual Grid|超树网格转换为对偶网格
+HyperTreeGrid To UnstructuredGrid|超树网格转换为非结构化网格
+Hyper Tree Grid Ghost Cells Generator|超树网格幽灵单元生成器
+Hyper Tree Grid - Axis Reflection|超树网格轴反射
+Hyper Tree Grid - Cell Centers|超树网格单元中心
+Hyper Tree Grid - Depth Limiter|超树网格深度限制
+Hyper Tree Grid (Random)|随机超树网格
+AMR Connectivity|AMR 连通性
+AMR Contour|AMR 等值面
+AMR CutPlane|AMR 切平面
+AMR Dual Clip|AMR 对偶裁剪
+AMR Fragments Filter|AMR 碎片过滤器
+AMR Fragment Integration|AMR 碎片积分
+Extract AMR Blocks|提取 AMR 数据块
+Extract CTH Parts|提取 CTH 部件
+AMR GaussianPulse Source|AMR 高斯脉冲数据源
+Convert AMR dataset to Multi-block|AMR 数据集转换为多块数据
+Material Interface Filter|材料界面过滤器
+Intersect Fragments|碎片求交
+Angular Periodic Filter|角度周期过滤器
+Create Selection|创建选择
+Add Field Arrays|添加场数组
+Add Filter|添加过滤器
+Image|图像
+Border|边框
+Axes|坐标轴
+Foreground|前景
+Maintain Luminance|保持亮度
+Overlay all comparisons|叠加所有比较结果
+Filter Messages|过滤消息
+Show full messages|显示完整消息
+Black|黑色
+Warm|暖色
+Fill|填充
+Freeze|冻结
+Auto-update|自动更新
+Hidden Line Removal|隐藏线消除
+Show frustum|显示视锥
+# of Cells|单元数
+# of Points|点数
+# of Edges|边数
+# of Rows|行数
+# of Vertices|顶点数
+Choose File|选择文件
+File Name|文件名
+Files of type|文件类型
+Look in|查找位置
+All Files|所有文件
+Options|选项
+Advanced Properties|高级属性
+Search in properties|在属性中搜索
+Scalar Range|标量范围
+Automatic Rescale Range Mode|自动缩放范围模式
+Grow and update on 'Apply'|应用时扩展并更新
+Clamp and update every timestep|每个时间步截断并更新
+Grow and update every timestep|每个时间步扩展并更新
+Never|从不
+Automatic|自动
+Solid Color|纯色
+Component|分量
+Magnitude|模
+Point Data|点数据
+Cell Data|单元数据
+Field Data|场数据
+Multiblock|多块数据
+Surface LIC|表面线积分卷积
+Outline|外轮廓
+Feature Angle|特征角
+Splitting|分裂
+Consistency|一致性
+Auto Orient Normals|自动定向法向
+Flip Normals|翻转法向
+Non Manifold Traversal|非流形遍历
+Piece Invariant|分片不变
+Pass Point Data|传递点数据
+Pass Cell Data|传递单元数据
+Contributing Cell Option|参与单元选项
+Threshold Range|阈值范围
+All Scalars|所有标量
+Use Continuous Cell Range|使用连续单元范围
+Inside Out|内外反转
+Extract Inside|提取内部
+Extract Boundary Cells|提取边界单元
+Sample Distance|采样距离
+Sampling Dimensions|采样维数
+Use Input Bounds|使用输入边界
+Source|数据源
+Destination|目标
+Settings|设置
+RenderView1|渲染视图 1
+Attribute:|属性
+Color Legend:|颜色图例
+Opacity Legend:|不透明度图例
+Catalyst|协同处理
+View (Render View)|视图（渲染视图）
+[Select Parameter]|[选择参数]
+Stride|步幅
+Key|关键帧
+Int|整数
+Azi|方位角
+Ele|仰角
+Head|头部旋转角
+Selected Data (none)|选中数据（无）
+Comma-separated values accepted.|支持逗号分隔的值。
+Color Legend|颜色图例
+Opacity Legend|不透明度图例
+Python support not available!|Python 支持不可用！
+OSPRay support not available!|OSPRay 支持不可用！
+Search ... (use Esc to clear)|搜索（按 Esc 清除）
+3D Glyphs|三维矢量符号
+Cells|单元
+Cell Arrays|单元数组
+Cell Count Ascending|按单元数升序
+Cell Count Descending|按单元数降序
+Cell Data Array to process|待处理的单元数据数组
+Cell Ids|单元编号
+Cell Label Font|单元标签字体
+Cell Length|单元长度
+Cell Locator|单元定位器
+Cell/Point Array Status|单元/点数组状态
+Empty Cell Value|空单元值
+Extract Cell At Location|提取指定位置的单元
+Generate Cell Origins|生成单元原点
+Glyph Parameters|矢量符号参数
+Glyph Source|矢量符号数据源
+Glyph Transform|矢量符号变换
+Glyph With Custom Source Legacy|旧式自定义数据源矢量符号
+Gradient Magnitude|梯度模
+Clipping Plane|裁剪平面
+Clip Color|裁剪颜色
+Clipping Tolerance|裁剪容差
+Reverse Cells|反转单元
+Sample At Cell Boundaries|在单元边界采样
+Static Cell Locator|静态单元定位器
+Scale by Magnitude|按模缩放
+Scalar - Velocity magnitude|标量 - 速度模
+Scalar - Vorticity magnitude|标量 - 涡量模
+Vector - Vorticity|矢量 - 涡量
+Vorticity|涡量
+Search ... (use Esc to clear text)|搜索（按 Esc 清除文字）
+AMR|自适应网格细化
+CTH|CTH 材料分析
+Python|Python 脚本
+2D|二维
+3D|三维
+32-bit|32 位
+64-bit|64 位
+32-bit (SP)|32 位单精度
+64-bit (DP)|64 位双精度
+ASCII|ASCII 文本
+Ascii|ASCII 文本
+Binary|二进制
+PNG|PNG 图像
+JPG|JPG 图像
+CSV|逗号分隔值
+PLY|PLY 多边形数据
+STL|STL 三角网格
+VTU|VTK 非结构化网格
+VTP|VTK 多边形数据
+VTI|VTK 图像数据
+VTR|VTK 直角网格
+VTS|VTK 结构化网格
+VTM|VTK 多块数据
+VTPC|VTK 分区集合
+VTPD|VTK 分区数据
+VTH|VTK 超树网格
+X Normal|X 方向法向
+Y Normal|Y 方向法向
+Z Normal|Z 方向法向
+Plane Parameters|平面参数
+Slice Offset Values|切片偏移值
+Triangulate the slice|对切片进行三角剖分
+Merge duplicated points in the slice|合并切片中的重复点
+All|全部
+Always|始终
+Normal Info|法向信息
+Normal Scale|法向缩放
+Default Normal|默认法向
+Use Default Normal|使用默认法向
+Use Normal|使用法向
+User Normal|用户法向
+Save Normal|保存法向
+Result Normals|结果法向
+Inverse Normal|逆累积正态分布
+Camera Normal|相机法向
+Reset Camera to Normal|将相机对齐法向
+Coat Normal Scale|涂层法向缩放
+Coat Normal Texture|涂层法线纹理
+Flagpole Actor|旗杆渲染对象
+Text Actor|文本渲染对象
+TextActor|文本渲染对象
+BillboardTextActor3D|三维面向相机的文本对象
+Scalar Bar Actor|标量色条渲染对象
+Invalid cast|无效类型转换
+Minimum Number Of Ghost Levels|最小幽灵层数
+Ghost Level|幽灵层级
+Ghost Levels|幽灵层数
+Camera Roll Divisions|相机滚转角分段数
+Camera Theta Divisions|相机周向角分段数
+Cinema-Volumetric PNG|Cinema 体渲染 PNG
+Volume Opacity Array|体渲染不透明度数组
+Volume Parameters|体渲染参数
+Volume Rendering Mode|体渲染模式
+Volume (Uniform Rectilinear)|体渲染（均匀直角网格）
+Bounded Volume|有界体域
+Divide Cell Data By Volume|单元数据除以单元体积
+UniformGridVolumeRepresentation|均匀网格体渲染表示
+UnstructuredGridVolumeRepresentation|非结构化网格体渲染表示
+StructuredGridVolumeRepresentation|结构化网格体渲染表示
+AMRVolumeRepresentation|AMR 体渲染表示
+Camera Roll|相机滚转角
+Key Light|主光
+Fill Light|补光
+Back Light|背光
+Head Light|头灯
+Key Light Elevation|主光仰角
+Fill Light Elevation|补光仰角
+Back Light Elevation|背光仰角
+Key Light Azimuth|主光方位角
+Fill Light Azimuth|补光方位角
+Back Light Azimuth|背光方位角
+Key Light Warmth|主光色温倾向
+Fill Light Warmth|补光色温倾向
+Back Light Warmth|背光色温倾向
+Head Light Warmth|头灯色温倾向
+White Balance|白平衡
+Gamma|伽马值
+Exposure|曝光
+Ambient Occlusion|环境光遮蔽
+Ambient Occlusion Options|环境光遮蔽选项
+Screen Space Ambient Occlusion|屏幕空间环境光遮蔽
+Tone Mapping|色调映射
+Russian Roulette Depth|俄罗斯轮盘赌终止深度
+Roulette Depth|俄罗斯轮盘赌终止深度
+Backplate|背景底板
+SSAO|屏幕空间环境光遮蔽
+PBR|基于物理的渲染
+Point Sprite|点精灵
+Ray Tracing|光线追踪
+Path Tracing|路径追踪
+Raycaster|光线投射器
+Pathtracer|路径追踪器
+LOD|细节层级
+LOD Threshold|细节层级阈值
+Level of Detail|细节层级
+Level Of Detail|细节层级
+Decimation|网格简化
+Jacobian|雅可比
+Scaled Jacobian|缩放雅可比
+Skew|偏斜度
+Skewness|偏斜度
+Warpage|翘曲度
+Aspect Ratio|长宽比
+Aspect Frobenius|弗罗贝尼乌斯长宽比
+Aspect Beta|贝塔长宽比
+Aspect Gamma|伽马长宽比
+Condition|条件数
+Distortion|畸变度
+Edge Ratio|边长比
+Radius Ratio|半径比
+Collapse Ratio|塌缩比
+Orthogonal Quality|正交质量
+Relative Size Squared|相对尺寸平方
+Shape And Size|形状与尺寸
+Shear And Size|剪切与尺寸
+Shear|剪切
+Stretch|伸长比
+Scaled Jacobian|缩放雅可比
+Laplacian|拉普拉斯算子
+Gradient|梯度
+Divergence|散度
+Vorticity|涡量
+Q Criterion|Q 判据
+Compute Q Criterion|计算 Q 判据
+Velocity|速度
+Pressure|压力
+Stress|应力
+Strain|应变
+Strain Rate|应变率
+Displacement|位移
+Traction|面力
+Angular Velocity|角速度
+Density|密度
+Mass|质量
+Normal Stress|法向应力
+Shear Stress|剪切应力
+Von Mises Stress|冯·米塞斯等效应力
+Principal Stress|主应力
+Young's Modulus|杨氏模量
+Poisson's Ratio|泊松比
+Float|单精度浮点数
+Double|双精度浮点数
+Integer|整数
+Char|字符
+Unsigned Char|无符号字符
+unsigned char|无符号字符
+unsigned int|无符号整数
+unsigned long|无符号长整数
+unsigned short|无符号短整数
+int|整数
+long|长整数
+short|短整数
+float|单精度浮点数
+double|双精度浮点数
+scalar|标量
+vector|矢量
+vector_components|矢量分量
+on|开启
+off|关闭
+inside|内部
+outside|外部
+empty|空
+compatible|兼容
+Unknown error|未知错误
+Preferences/Settings.|首选项／设置。
+Ctrl|控制键
+Alt|换档辅助键
+Shift|上档键
+Tolerance|容差
+Absolute Tolerance|绝对容差
+Relative Tolerance|相对容差
+Is Tolerance Absolute|使用绝对容差
+Tolerance Is Absolute|使用绝对容差
+Face Texture Tolerance|面纹理容差
+Pyramid|棱锥
+Quadratic Pyramid|二次棱锥
+Tri-Quadratic Pyramid|三二次棱锥
+Wedge|楔形体
+Quadratic Wedge|二次楔形体
+Triquadratic Hexahedron|三二次六面体
+Hexahedron|六面体
+Tetrahedron|四面体
+Quadrilateral|四边形
+Polygon|多边形
+Polyhedron|多面体
+Polyvertex cell|多顶点单元
+Components|分量
+Component Title|分量标题
+Scale by Components|按分量缩放
+Merge XYZComponents|合并 XYZ 分量
+Multi Components Mapping|多分量映射
+Opacity Array Component|不透明度数组分量
+Opacity Component|不透明度分量
+Scale Array Component|缩放数组分量
+Displacement Magnitude|位移模
+Amplitude|振幅
+Pulse Amplitude|脉冲振幅
+Generate Cell Vectors|生成单元矢量
+Generate Cell Origins|生成单元原点
+Generate Cell Connectivity|生成单元连通关系
+Kernel|核函数
+Kernel Footprint|核函数作用范围
+Kernel Size|核函数大小
+LinearKernel|线性核函数
+ShepardKernel|谢泼德核函数
+VoronoiKernel|沃罗诺伊核函数
+SPHCubicKernel|SPH 三次样条核函数
+SPHKernelBase|SPH 核函数基类
+SPHQuinticKernel|SPH 五次样条核函数
+SPHWendlandQuinticKernel|SPH Wendland 五次核函数
+GeneralizedKernelBase|广义核函数基类
+Compressor Config|压缩器配置
+Compressor Four CC|压缩器四字符编码
+Compressor Type|压缩器类型
+Sample Rate I|I 方向采样步长
+Sample Rate J|J 方向采样步长
+Sample Rate K|K 方向采样步长
+Subsample Rate|降采样步长
+Transform2|变换 2
+Block Selectors Assembly Name|数据块选择器装配树名称
+WidgetBase|控件基类
+D3|分布式数据分解
+Multi-block Dataset|多块数据集
+Scroll Left|向左滚动
+Scroll Right|向右滚动
+1280 x 1024 (SXGA)|超扩展图形阵列分辨率
+1280 x 800 (WXGA)|宽屏扩展图形阵列分辨率
+1280 x 720 (HD)|高清分辨率
+1920 x 1080 (FHD)|全高清分辨率
+3840 x 2160 (4K UHD)|4K 超高清分辨率
+Input must be vtkImageData, vtkRectilinearGrid, vtkStructuredPoints, or vtkStructuredGrid|输入必须是图像数据、直角网格、结构化点或结构化网格
+Delete the selected preset from the preset list or clear the current shader replacement string.|从预设列表中删除所选预设，或清空当前着色器替换字符串。
+Specify shader replacements using a Json string. The Json string can be a single node or an array of nodes with the following properties:|使用 JSON 字符串指定着色器替换规则。该字符串可包含单个节点或节点数组，各节点具有以下属性：
+Example of a simple shader replacement (draw all the fragments in full red color without any shading consideration):|简单着色器替换示例：将全部片元绘制为纯红色，不进行光照着色计算。
+Visibility|可见性
+Visibility Control|可见性控制
+Map Scalars|映射标量
+Maps|映射
+Point Arrays|点数组
+PointArrays|点数组
+Point Array Info|点数组信息
+Point Array Status|点数组状态
+Lagrangian Arrays|拉格朗日数组
+Lagrangian positions without extra data|不附加额外数据的拉格朗日位置
+FieldData|场数据
+FIELD|场数据
+THRESHOLDS|阈值
+Lower Threshold|阈值下限
+Upper Threshold|阈值上限
+Enable Streaming|启用流式处理
+Multi Samples|多重采样
+Lock Sample Distance To Input Spacing|将采样距离锁定为输入网格间距
+Edge Map Info|边映射信息
+Polar Arcs Visibility|极弧可见性
+Polar Axis Visibility|极轴可见性
+Cell Field Data Array Name|单元场数据数组名称
+Point Field Data Array Name|点场数据数组名称
+Selection Cell Field Data Array Name|选中单元的场数据数组名称
+Selection Point Field Data Array Name|选中点的场数据数组名称
+is|等于
+is <=|小于或等于
+is <= mean|小于或等于均值
+is >=|大于或等于
+is >= mean|大于或等于均值
+is in range|处于范围内
+is max|为最大值
+is mean|等于均值
+is min|为最小值
+is NaN|为非数值
+is one of|为所列值之一
+Field Association|数据关联
+Backface Styling|背面样式
+Metallic|金属度
+Emissive|自发光
+Emissive Factor|自发光系数
+Emissive Texture|自发光纹理
+GenericFilmic|通用胶片风格
+Generic Filmic Presets|通用胶片风格预设
+Youngs Material Interface|Youngs 材料界面重建
+
+Checker_Alpha|棋盘格透明材质
+Glass_Thick|厚玻璃
+Glass_Thin|薄玻璃
+Glass_Water|水玻璃
+Metal_Diamond_Plate|金属花纹板
+Metal_Scratched|划痕金属
+PBR_Solar_Panels|太阳能板材质
+PBR_Carbon_Fiber|碳纤维材质
+PBR_Plastic_White|白色塑料材质
+PBR_Plastic_Dark|深色塑料材质
+PBR_Fabric_Green|绿色织物材质
+PBR_Fabric_Orange|橙色织物材质
+PBR_Fabric_Tan|棕褐色织物材质
+PBR_Fabric_Camo|迷彩织物材质
+PBR_Camo_Mesh|网状迷彩材质
+PBR_Camo_Dull|哑光迷彩材质
+PBR_Cork|软木材质
+PBR_Circuit_Board|电路板材质
+PBR_Silica_Phenolic|二氧化硅酚醛复合材料材质
+PBR_Particle_Board|刨花板材质
+PBR_Asphalt|沥青材质
+PBR_Brick_Wall_1|砖墙 1材质
+PBR_Brick_Wall_2|砖墙 2材质
+PBR_Grass|草地材质
+PBR_Water|水材质
+PBR_Ground_Dirt|泥土地面材质
+PBR_Ground_Wet|湿润地面材质
+PBR_Concrete_1|混凝土 1材质
+PBR_Concrete_2|混凝土 2材质
+PBR_Sand|沙地材质
+PBR_Snow|积雪材质
+Metal_Aluminium_mirror|铝—镜面
+Metal_Aluminium_normal|铝—标准光泽
+Metal_Aluminium_flat|铝—低光泽
+Metal_Aluminium_dull|铝—哑光
+Metal_Aluminium_brushed|铝—拉丝
+Metal_Aluminium_cast|铝—铸造表面
+Metal_Silver_mirror|银—镜面
+Metal_Silver_normal|银—标准光泽
+Metal_Silver_flat|银—低光泽
+Metal_Silver_dull|银—哑光
+Metal_Silver_brushed|银—拉丝
+Metal_Silver_cast|银—铸造表面
+Metal_Gold_mirror|金—镜面
+Metal_Gold_normal|金—标准光泽
+Metal_Gold_flat|金—低光泽
+Metal_Gold_dull|金—哑光
+Metal_Gold_brushed|金—拉丝
+Metal_Gold_cast|金—铸造表面
+Metal_Chromium_mirror|铬—镜面
+Metal_Chromium_normal|铬—标准光泽
+Metal_Chromium_flat|铬—低光泽
+Metal_Chromium_dull|铬—哑光
+Metal_Chromium_brushed|铬—拉丝
+Metal_Chromium_cast|铬—铸造表面
+Metal_Copper_mirror|铜—镜面
+Metal_Copper_normal|铜—标准光泽
+Metal_Copper_flat|铜—低光泽
+Metal_Copper_dull|铜—哑光
+Metal_Copper_brushed|铜—拉丝
+Metal_Copper_cast|铜—铸造表面
+Metal_Brass_mirror|黄铜—镜面
+Metal_Brass_normal|黄铜—标准光泽
+Metal_Brass_flat|黄铜—低光泽
+Metal_Brass_dull|黄铜—哑光
+Metal_Brass_brushed|黄铜—拉丝
+Metal_Brass_cast|黄铜—铸造表面
+Metal_Lead_mirror|铅—镜面
+Metal_Lead_normal|铅—标准光泽
+Metal_Lead_flat|铅—低光泽
+Metal_Lead_dull|铅—哑光
+Metal_Lead_brushed|铅—拉丝
+Metal_Lead_cast|铅—铸造表面
+Metal_Titanium_mirror|钛—镜面
+Metal_Titanium_normal|钛—标准光泽
+Metal_Titanium_flat|钛—低光泽
+Metal_Titanium_dull|钛—哑光
+Metal_Titanium_brushed|钛—拉丝
+Metal_Titanium_cast|钛—铸造表面
+Metal_Iron_mirror|铁—镜面
+Metal_Iron_normal|铁—标准光泽
+Metal_Iron_flat|铁—低光泽
+Metal_Iron_dull|铁—哑光
+Metal_Iron_brushed|铁—拉丝
+Metal_Iron_cast|铁—铸造表面
+Metal_Tungsten_normal|钨—标准光泽
+Metal_Tungsten_flat|钨—低光泽
+Metal_Tungsten_dull|钨—哑光
+Metal_Tungsten_brushed|钨—拉丝
+Metal_Tungsten_cast|钨—铸造表面
+Metal_Platinum_mirror|铂—镜面
+Metal_Platinum_normal|铂—标准光泽
+Metal_Platinum_flat|铂—低光泽
+Metal_Platinum_dull|铂—哑光
+Metal_Platinum_brushed|铂—拉丝
+Metal_Platinum_cast|铂—铸造表面
+Metal_Stainless_Steel_mirror|不锈钢—镜面
+Metal_Stainless_Steel_normal|不锈钢—标准光泽
+Metal_Stainless_Steel_flat|不锈钢—低光泽
+Metal_Stainless_Steel_dull|不锈钢—哑光
+Metal_Stainless_Steel_brushed|不锈钢—拉丝
+Metal_Stainless_Steel_cast|不锈钢—铸造表面
+Surface|表面
+Surface With Edges|表面及边线
+Wireframe|线框
+Points|点
+Point Gaussian|高斯点
+Feature Edges|特征边
+3D Glyphs|三维矢量符号
+Volume|体渲染
+Outline|外轮廓
+OSPRay pathtracer|OSPRay 路径追踪器
+OSPRay raycaster|OSPRay 光线投射器
+Value Indexed|按数值索引材质
